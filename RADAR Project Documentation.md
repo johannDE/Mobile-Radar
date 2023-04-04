@@ -17,15 +17,9 @@
 
 
 
-<b style  = "color: purple; font-size: 20;">Members list</b>
+<b style  = "color: purple; font-size: 20;">Author:</b>
 
-
-| No. | Name |
-| --- | ---- |
-| 1   |DIKOS Johann-Emmanuel      |
-| 2   | EFFOUA Junior     |
-| 3   | OLONGO Cynthia     |
-| 4    | TCHAMKO Chabrell     |
+DIKOS OUMAROU Johann-Emmanuel
 
 
 <p style = "page-break-after: always;"></p>
